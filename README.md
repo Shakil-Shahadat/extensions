@@ -1,4 +1,4 @@
-#  A list of chrome extensions I use
+#  Must have extensions
 
 
 # Testing
