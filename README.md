@@ -6,4 +6,3 @@
 - [ I don't care about cookies ]( https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja )
 
 # Searching
-- Dark Theme
