@@ -1,5 +1,5 @@
 #  Must Have Extensions
-- [ 1-click-timer ]( https://chrome.google.com/webstore/detail/1-click-timer/igloknlllonknnbkfgggfkigmeegmakf )
+1. [ 1-click-timer ]( https://chrome.google.com/webstore/detail/1-click-timer/igloknlllonknnbkfgggfkigmeegmakf )
 - [ AutoplayStopper ]( https://chrome.google.com/webstore/detail/autoplaystopper/ejddcgojdblidajhngkogefpkknnebdh )
 - [ Checker Plus for Gmail™ ]( https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj )
 - [ Context Menu Search ]( https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga )
