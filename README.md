@@ -9,7 +9,6 @@
 1. [ F.B.(FluffBusting)Purity ]( https://chrome.google.com/webstore/detail/fbfluffbustingpurity/nmkinhboiljjkhaknpaeaicmdjhagpep )
 1. [ Forest: stay focused, be present ]( https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk )
 1. [ Gismeteo ]( https://chrome.google.com/webstore/detail/gismeteo/bfegaehidkkcfaikpaijcdahnpikhobf )
-1. [ Google Dictionary (by Google) ]( https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja )
 1. [ Grammarly for Chrome ]( https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen )
 1. [ Hover Zoom+ ]( https://chrome.google.com/webstore/detail/hover-zoom%20/pccckmaobkjjboncdfnnofkonhgpceea )
 1. [ I don't care about cookies ]( https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja )
