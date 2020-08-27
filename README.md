@@ -16,3 +16,4 @@
 1. [ LastPass: Free Password Manager ]( https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd )
 1. [ Notifier for GitHub ]( https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn )
 1. [ RSS Feed Reader ]( https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp )
+1. [ Scrollbar Customizer ]( https://chrome.google.com/webstore/detail/scrollbar-customizer/flffekjijpabhjgpoapooggncnmcjopa )
