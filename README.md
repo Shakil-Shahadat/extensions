@@ -15,3 +15,4 @@
 1. [ Instant Dictionary by GoodWordGuide.com ]( https://chrome.google.com/webstore/detail/instant-dictionary-by-goo/mfembjnmeainjncdflaoclcjadfhpoim )
 1. [ LastPass: Free Password Manager ]( https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd )
 1. [ Notifier for GitHub ]( https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn )
+1. [ RSS Feed Reader ]( https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp )
