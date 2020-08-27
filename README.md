@@ -1,5 +1,6 @@
 #  Must Have Extensions
 1. [ 1-click-timer ]( https://chrome.google.com/webstore/detail/1-click-timer/igloknlllonknnbkfgggfkigmeegmakf )
+1. [ AcceleReader, Power-up your Pocket experience ]( https://chrome.google.com/webstore/detail/accelereader-power-up-you/ndaldjfflhocdageglcnflfanmdhgfbi )
 1. [ AutoplayStopper ]( https://chrome.google.com/webstore/detail/autoplaystopper/ejddcgojdblidajhngkogefpkknnebdh )
 1. [ Checker Plus for Gmail™ ]( https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj )
 1. [ Context Menu Search ]( https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga )
