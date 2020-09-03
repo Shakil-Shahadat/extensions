@@ -16,4 +16,3 @@
 1. [ Scrollbar Customizer ]( https://chrome.google.com/webstore/detail/scrollbar-customizer/flffekjijpabhjgpoapooggncnmcjopa )
 1. [ Tampermonkey ]( https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo )
 1. [ uBlock Origin ]( https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm )
-1. [ Weather ]( https://chrome.google.com/webstore/detail/weather/iolcbmjhmpdheggkocibajddahbeiglb )
