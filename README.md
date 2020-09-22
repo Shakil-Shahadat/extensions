@@ -6,7 +6,6 @@
 1. [ F.B. Purity ]( https://chrome.google.com/webstore/detail/fbfluffbustingpurity/nmkinhboiljjkhaknpaeaicmdjhagpep )
 1. [ Gismeteo ]( https://chrome.google.com/webstore/detail/gismeteo/bfegaehidkkcfaikpaijcdahnpikhobf )
 1. [ Grammarly ]( https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen )
-1. [ Hover Zoom+ ]( https://chrome.google.com/webstore/detail/hover-zoom%20/pccckmaobkjjboncdfnnofkonhgpceea )
 1. [ I don't care about cookies ]( https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja )
 1. [ Instant Dictionary ]( https://chrome.google.com/webstore/detail/instant-dictionary-by-goo/mfembjnmeainjncdflaoclcjadfhpoim )
 1. [ LastPass ]( https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd )
