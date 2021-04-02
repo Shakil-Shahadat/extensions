@@ -15,5 +15,6 @@
 1. [ PacktPub Free Learning Checker ]( https://chrome.google.com/webstore/detail/packtpub-free-learning-ch/hkoclfhbfoghkjhmcckefibpkfkdajlg )
 1. [ RSS Feed Reader ]( https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp )
 1. [ Scrollbar Customizer ]( https://chrome.google.com/webstore/detail/scrollbar-customizer/flffekjijpabhjgpoapooggncnmcjopa )
+1. [ Search Params Remover ]( https://chrome.google.com/webstore/detail/search-params-remover/gfmcbkcihnobpalkdakmmecajahgnnol )
 1. [ Tampermonkey ]( https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo )
 1. [ uBlock Origin ]( https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm )
