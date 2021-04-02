@@ -7,6 +7,7 @@
 1. [ Enhancer for YouTube ]( https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle )
 1. [ F.B. Purity ]( https://chrome.google.com/webstore/detail/fbfluffbustingpurity/nmkinhboiljjkhaknpaeaicmdjhagpep )
 1. [ Gismeteo ]( https://chrome.google.com/webstore/detail/gismeteo/bfegaehidkkcfaikpaijcdahnpikhobf )
+1. [ Google Dictionary ]( https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja )
 1. [ Grammarly ]( https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen )
 1. [ I don't care about cookies ]( https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja )
 1. [ LastPass ]( https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd )
