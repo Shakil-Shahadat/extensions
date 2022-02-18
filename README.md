@@ -10,7 +10,7 @@
 1. [ Google Dictionary ]( https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja )
 1. [ Grammarly ]( https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen )
 1. [ I don't care about cookies ]( https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja )
-1. [ LastPass ]( https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd )
+1. [ Bitwarden - Free Password Manager ]( https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb )
 1. [ Notifier for GitHub ]( https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn )
 1. [ PacktPub Free Learning Checker ]( https://chrome.google.com/webstore/detail/packtpub-free-learning-ch/hkoclfhbfoghkjhmcckefibpkfkdajlg )
 1. [ Return YouTube Dislike ]( https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi )
