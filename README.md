@@ -1,7 +1,6 @@
 #  Must Have Extensions
 1. [ AcceleReader ]( https://chrome.google.com/webstore/detail/accelereader-power-up-you/ndaldjfflhocdageglcnflfanmdhgfbi )
 1. [ Checker Plus for Gmail ]( https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj )
-1. [ Checker Plus for Google Calendar ]( https://chrome.google.com/webstore/detail/checker-plus-for-google-c/hkhggnncdpfibdhinjiegagmopldibha )
 1. [ Context Menu Search ]( https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga )
 1. [ Download Manager ]( https://chrome.google.com/webstore/detail/download-manager/ofpglhlcdbjdhlacgbljnildhajfmlei )
 1. [ Enhancer for YouTube ]( https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle )
