@@ -10,7 +10,6 @@
 1. [ Notifier for GitHub ]( https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn )
 1. [ Return YouTube Dislike ]( https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi )
 1. [ Scrollbar Customizer ]( https://chrome.google.com/webstore/detail/scrollbar-customizer/flffekjijpabhjgpoapooggncnmcjopa )
-1. [ Search Params Remover ]( https://chrome.google.com/webstore/detail/search-params-remover/gfmcbkcihnobpalkdakmmecajahgnnol )
 1. [ SponsorBlock for YouTube - Skip Sponsorships ]( https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone )
 1. [ Tampermonkey ]( https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo )
 1. [ uBlock Origin ]( https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm )
