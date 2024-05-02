@@ -9,6 +9,7 @@
 1. [ Grammarly ]( https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen )
 1. [ Notifier for GitHub ]( https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn )
 1. [ Return YouTube Dislike ]( https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi )
+1. [ Scroll To Top Button ]( https://chromewebstore.google.com/detail/scroll-to-top-button/chinfkfmaefdlchhempbfgbdagheknoj ) Scroll to top, bottom, or both. Click the extension icon, on-page button, use context menu options, and/or keyboard shortcuts.
 1. [ Scrollbar Customizer ]( https://chrome.google.com/webstore/detail/scrollbar-customizer/flffekjijpabhjgpoapooggncnmcjopa )
 1. [ SponsorBlock for YouTube - Skip Sponsorships ]( https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone )
 1. [ Tampermonkey ]( https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo )
