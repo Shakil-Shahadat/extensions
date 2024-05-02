@@ -4,7 +4,7 @@
 1. [ Checker Plus for Gmail ]( https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj )
 1. [ Context Menu Search ]( https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga )
 1. [ Enhancer for YouTube ]( https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle )
-1. [ Fluff Busting Purity ]( https://chrome.google.com/webstore/detail/fbfluffbustingpurity/nmkinhboiljjkhaknpaeaicmdjhagpep ) Fluff Busting Purity cleans up & customizes Facebook, letting you filter out the junk you don't want to see
+1. [ Fluff Busting Purity ]( https://chromewebstore.google.com/detail/fluff-busting-purity/nmkinhboiljjkhaknpaeaicmdjhagpep ) Fluff Busting Purity cleans up & customizes Facebook, letting you filter out the junk you don't want to see
 1. [ Google Dictionary ]( https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja )
 1. [ Grammarly ]( https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen )
 1. [ Notifier for GitHub ]( https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn )
