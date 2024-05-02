@@ -5,7 +5,7 @@
 1. [ Context Menu Search ]( https://chromewebstore.google.com/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga ) Use the right-click menu to search for selected text in different search engines
 1. [ Enhancer for YouTube ]( https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle ) Take control of YouTube and boost your user experience!
 1. [ Fluff Busting Purity ]( https://chromewebstore.google.com/detail/fluff-busting-purity/nmkinhboiljjkhaknpaeaicmdjhagpep ) Fluff Busting Purity cleans up & customizes Facebook, letting you filter out the junk you don't want to see
-1. [ Google Dictionary ]( https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja ) View definitions easily as you browse the web.
+1. [ Google Dictionary ]( https://chromewebstore.google.com/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja ) View definitions easily as you browse the web.
 1. [ Grammarly ]( https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen )
 1. [ Notifier for GitHub ]( https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn )
 1. [ Return YouTube Dislike ]( https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi )
