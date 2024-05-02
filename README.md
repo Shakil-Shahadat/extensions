@@ -1,6 +1,6 @@
 #  Must Have Extensions
 1. [ AcceleReader, Power-up your Pocket experience ]( https://chromewebstore.google.com/detail/accelereader-power-up-you/ndaldjfflhocdageglcnflfanmdhgfbi ) Unread article count, article reading time, time-tags for mobile apps, article aging, surprise me, custom reading speed & more!
-1. [ Bitwarden - Free Password Manager ]( https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb )
+1. [ Bitwarden - Free Password Manager ]( https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb ) A secure and free password manager for all of your devices.
 1. [ Checker Plus for Gmail ]( https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj )
 1. [ Context Menu Search ]( https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga )
 1. [ Enhancer for YouTube ]( https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle )
