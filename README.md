@@ -3,7 +3,7 @@
 1. [ Bitwarden - Free Password Manager ]( https://chromewebstore.google.com/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb ) A secure and free password manager for all of your devices.
 1. [ Checker Plus for Gmail ]( https://chromewebstore.google.com/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj ) Get notifications, read, listen to or delete emails without opening Gmail and easily manage multiple accounts.
 1. [ Context Menu Search ]( https://chromewebstore.google.com/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga ) Use the right-click menu to search for selected text in different search engines
-1. [ Enhancer for YouTube ]( https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle )
+1. [ Enhancer for YouTube ]( https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle ) Take control of YouTube and boost your user experience!
 1. [ Fluff Busting Purity ]( https://chromewebstore.google.com/detail/fluff-busting-purity/nmkinhboiljjkhaknpaeaicmdjhagpep ) Fluff Busting Purity cleans up & customizes Facebook, letting you filter out the junk you don't want to see
 1. [ Google Dictionary ]( https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja )
 1. [ Grammarly ]( https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen )
