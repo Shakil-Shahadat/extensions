@@ -11,7 +11,7 @@
 1. [ Return YouTube Dislike ]( https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi )
 1. [ Scroll To Top Button ]( https://chromewebstore.google.com/detail/scroll-to-top-button/chinfkfmaefdlchhempbfgbdagheknoj ) Scroll to top, bottom, or both. Click the extension icon, on-page button, use context menu options, and/or keyboard shortcuts.
 1. [ Scrollbar Customizer ]( https://chrome.google.com/webstore/detail/scrollbar-customizer/flffekjijpabhjgpoapooggncnmcjopa )
-2. [ Speed Dial ]( https://chromewebstore.google.com/detail/speed-dial/ejbjamhkdedinncaeiackcdehpccoejm ) Speed Dial changes the standard page to the new tab page with your saved bookmarks.
+1. [ Speed Dial ]( https://chromewebstore.google.com/detail/speed-dial/ejbjamhkdedinncaeiackcdehpccoejm ) Speed Dial changes the standard page to the new tab page with your saved bookmarks.
 1. [ SponsorBlock for YouTube - Skip Sponsorships ]( https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone ) Skip sponsorships, subscription begging, and more on YouTube videos. Report sponsors on videos you watch to save others' time.
 1. [ Tampermonkey ]( https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo )
 1. [ uBlock Origin ]( https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm )
