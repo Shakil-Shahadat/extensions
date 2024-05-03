@@ -16,3 +16,4 @@
 1. [ SponsorBlock for YouTube - Skip Sponsorships ]( https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone ) Skip sponsorships, subscription begging, and more on YouTube videos. Report sponsors on videos you watch to save others' time.
 1. [ Tampermonkey ]( https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo ) Change the web at will with userscripts
 1. [ uBlock Origin ]( https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm ) Finally, an efficient blocker. Easy on CPU and memory.
+1. [ Wayback Machine ]( https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak ) The Official Wayback Machine Extension - by the Internet Archive.
