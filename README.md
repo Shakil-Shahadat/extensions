@@ -15,4 +15,4 @@
 1. [ Speed Dial ]( https://chromewebstore.google.com/detail/speed-dial/ejbjamhkdedinncaeiackcdehpccoejm ) Speed Dial changes the standard page to the new tab page with your saved bookmarks.
 1. [ SponsorBlock for YouTube - Skip Sponsorships ]( https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone ) Skip sponsorships, subscription begging, and more on YouTube videos. Report sponsors on videos you watch to save others' time.
 1. [ Tampermonkey ]( https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo ) Change the web at will with userscripts
-1. [ uBlock Origin ]( https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm )
+1. [ uBlock Origin ]( https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm ) Finally, an efficient blocker. Easy on CPU and memory.
