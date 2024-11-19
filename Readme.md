@@ -1,6 +1,5 @@
 #  Google Chrome Extensions
 
-1. [ AcceleReader, Power-up your Pocket experience ]( https://chromewebstore.google.com/detail/accelereader-power-up-you/ndaldjfflhocdageglcnflfanmdhgfbi ) Unread article count, article reading time, time-tags for mobile apps, article aging, surprise me, custom reading speed & more!
 1. [ Bitwarden - Free Password Manager ]( https://chromewebstore.google.com/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb ) A secure and free password manager for all of your devices.
 1. [ Checker Plus for Gmail ]( https://chromewebstore.google.com/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj ) Get notifications, read, listen to or delete emails without opening Gmail and easily manage multiple accounts.
 1. [ Context Menu Search ]( https://chromewebstore.google.com/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga ) Use the right-click menu to search for selected text in different search engines
