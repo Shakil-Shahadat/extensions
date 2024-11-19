@@ -6,7 +6,7 @@
 1. [ Enhancer for YouTube ]( https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle ) Take control of YouTube and boost your user experience!
 1. [ Fluff Busting Purity ]( https://chromewebstore.google.com/detail/fluff-busting-purity/nmkinhboiljjkhaknpaeaicmdjhagpep ) Fluff Busting Purity cleans up & customizes Facebook, letting you filter out the junk you don't want to see
 1. [ Google Dictionary ]( https://chromewebstore.google.com/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja ) View definitions easily as you browse the web.
-1. [ Grammarly: AI Writing and Grammar Checker App ]( https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen ) Improve your writing with all-in-one assistance—including generative AI, grammar check, and more.
+1. [ Grammarly ]( https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen ) Improve your writing with all-in-one assistance—including generative AI, grammar check, and more.
 1. [ Notifier for GitHub ]( https://chromewebstore.google.com/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn ) Displays your GitHub notifications unread count.
 1. [ Return YouTube Dislike ]( https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi ) Returns ability to see dislikes
 1. [ Scroll To Top Button ]( https://chromewebstore.google.com/detail/scroll-to-top-button/chinfkfmaefdlchhempbfgbdagheknoj ) Scroll to top, bottom, or both. Click the extension icon, on-page button, use context menu options, and/or keyboard shortcuts.
