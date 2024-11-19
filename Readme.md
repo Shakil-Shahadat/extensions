@@ -1,4 +1,4 @@
-#  Favorite Google Chrome Extensions
+#  Google Chrome Extensions
 
 1. [ AcceleReader, Power-up your Pocket experience ]( https://chromewebstore.google.com/detail/accelereader-power-up-you/ndaldjfflhocdageglcnflfanmdhgfbi ) Unread article count, article reading time, time-tags for mobile apps, article aging, surprise me, custom reading speed & more!
 1. [ Bitwarden - Free Password Manager ]( https://chromewebstore.google.com/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb ) A secure and free password manager for all of your devices.
