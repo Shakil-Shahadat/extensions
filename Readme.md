@@ -16,4 +16,4 @@
 1. [ Tampermonkey ]( https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo ) Change the web at will with userscripts
 1. [ uBlock Origin ]( https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm ) Finally, an efficient blocker. Easy on CPU and memory.
 1. [ Wayback Machine ]( https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak ) The Official Wayback Machine Extension - by the Internet Archive.
-1. [ Windscribe - Free Proxy and Ad Blocker ]( https://chromewebstore.google.com/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb ) Windscribe helps you mask your physical location, circumvent censorship, and block ads and trackers on websites you use every day
+1. [ Windscribe ]( https://chromewebstore.google.com/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb ) VPN with 10GB free data every month.
