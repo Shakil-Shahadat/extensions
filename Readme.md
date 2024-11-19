@@ -12,7 +12,7 @@
 1. [ Scroll To Top Button ]( https://chromewebstore.google.com/detail/scroll-to-top-button/chinfkfmaefdlchhempbfgbdagheknoj ) Scroll to top, bottom, or both. Click the extension icon, on-page button, use context menu options, and/or keyboard shortcuts.
 1. [ Scrollbar Customizer ]( https://chromewebstore.google.com/detail/scrollbar-customizer/flffekjijpabhjgpoapooggncnmcjopa ) Customize your Scrollbar easily, fast, and however you want!
 1. [ Speed Dial ]( https://chromewebstore.google.com/detail/speed-dial/ejbjamhkdedinncaeiackcdehpccoejm ) Speed Dial changes the standard page to the new tab page with your saved bookmarks.
-1. [ SponsorBlock for YouTube - Skip Sponsorships ]( https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone ) Skip sponsorships, subscription begging, and more on YouTube videos. Report sponsors on videos you watch to save others' time.
+1. [ SponsorBlock for YouTube ]( https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone ) Skip sponsorships, subscription begging, and more on YouTube videos. Report sponsors on videos you watch to save others' time.
 1. [ Tampermonkey ]( https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo ) Change the web at will with userscripts
 1. [ uBlock Origin ]( https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm ) Finally, an efficient blocker. Easy on CPU and memory.
 1. [ Wayback Machine ]( https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak ) The Official Wayback Machine Extension - by the Internet Archive.
